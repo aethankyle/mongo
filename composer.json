@@ -1,0 +1,14 @@
+{
+    "name": "user/fetch_data_mongosh",
+    "autoload": {
+        "psr-4": {
+            "User\\FetchDataMongosh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aethan"
+        }
+    ],
+    "require": {}
+}
